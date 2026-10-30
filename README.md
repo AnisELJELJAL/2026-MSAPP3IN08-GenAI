@@ -30,7 +30,7 @@ Le projet est réalisé progressivement et doit rester démontrable tout au long
 ## Démarrage rapide
 
 1. Constituez un groupe — **3 personnes est le format standard**.
-2. Choisissez un sujet dans le [catalogue 2026](docs/CATALOGUE.md), puis inscrivez le groupe et ses vœux dans le **classeur d'inscription** du cours (lien transmis par l'enseignant). Un sujet n'est attribué qu'à un groupe ; le classeur fait foi.
+2. Choisissez un sujet dans le [catalogue 2026](docs/CATALOGUE.md), puis inscrivez le groupe dans le **classeur d'inscription** du cours (lien transmis par l'enseignant), onglet « Groupes », en choisissant le sujet dans la liste déroulante de la colonne « Sujet ». La règle est **premier arrivé, premier servi** : un sujet déjà pris disparaît de la liste, et un sujet abandonné redevient aussitôt disponible. Le classeur fait foi.
 3. Forkez ce dépôt sur le compte d'un membre du groupe.
 4. Créez un dossier unique à la racine, nommé `groupe-<nom-court>`.
 5. Copiez le contenu de [`template-groupe/`](template-groupe/) dans ce dossier.
@@ -38,7 +38,7 @@ Le projet est réalisé progressivement et doit rester démontrable tout au long
 7. Si le groupe est bloqué, ouvrez tôt une [demande d'accompagnement](https://github.com/jsboigeEPF/2026-MSAPP3IN08-GenAI/issues/new?template=demande-accompagnement.yml).
 8. Ouvrez une Pull Request vers ce dépôt avant la date limite.
 
-Les sujets libres sont possibles, mais doivent être proposés avec le [formulaire dédié](https://github.com/jsboigeEPF/2026-MSAPP3IN08-GenAI/issues/new?template=proposition-sujet.yml) et validés avant développement.
+Les sujets libres sont possibles, mais doivent être proposés avec le [formulaire dédié](https://github.com/jsboigeEPF/2026-MSAPP3IN08-GenAI/issues/new?template=proposition-sujet.yml), ou par une Pull Request qui ajoute leur fiche au [catalogue](docs/CATALOGUE.md) au même format, et validés avant développement.
 
 ## Deux circuits de contribution distincts
 
